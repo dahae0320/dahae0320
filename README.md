@@ -1,4 +1,4 @@
-### Hi there 👋
+### 📌 성장하는 iOS 개발자, 이다혜입니다.
 
 <!--
 **dahae0320/dahae0320** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+저의 iOS 개발 입문은..?
+(https://www.youtube.com/watch?v=M678vw6qPrc)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ss7ssy)](https://solved.ac/ss7ssy/)
 
