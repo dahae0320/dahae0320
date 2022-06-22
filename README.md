@@ -1,9 +1,13 @@
 ## ✨ 성장하는 개발자: 이다혜입니다.
 
- ### 🛠 Tech
+### 🛠 Tech
+
+> Now
 
 <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white"/> <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=Apple&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=Xcode&logoColor=white"/>
+
+> Previous
 
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
@@ -15,7 +19,7 @@
 
 | Contents                         | Date                    | Organization      |
 | -------------------------------- | ----------------------- | ----------------- |
-| 경상국립대학교 컴퓨터과학 전공           | 2019.03 ~ ing            | Gyeongsang National University |
+| 경상국립대학교 컴퓨터과학 전공           | 2019.03 ~ ing            | Gyeongsang National University(GNU) |
 | 경상대 멋쟁이사자처럼 7기              | 2019.03 ~ 2019.11        | LikeLion at GNU |
 | 경상대 멋쟁이사자처럼 8기 운영진 대표     | 2019.11 ~ 2020.11        | LikeLion at GNU |
 | 경상대 멋쟁이사자처럼 8기 운영진         | 2020.11 ~ 2021.11       | LikeLion at GNU |
