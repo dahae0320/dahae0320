@@ -1,4 +1,4 @@
-## ✨ 성장하는 개발자, 이다혜입니다.
+## 성장하는 개발자, 🤍 이다혜입니다.
 
 <!--
 **dahae0320/dahae0320** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
