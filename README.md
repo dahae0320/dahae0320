@@ -25,3 +25,5 @@ Here are some ideas to get you started:
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ss7ssy)](https://solved.ac/ss7ssy/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dahae0320&show_icons=true&theme=vue)
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdahae0320%2Fhit-counter&count_bg=%23F4E06D&title_bg=%23FF7396&icon=github.svg&icon_color=%23FFEDED&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
