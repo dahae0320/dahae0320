@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 저의 iOS 개발 입문은..?
-(https://www.youtube.com/watch?v=M678vw6qPrc)
+[![Video Label](https://youtu.be/vi/M678vw6qPrc/0.jpg)](https://youtu.be/M678vw6qPrc)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ss7ssy)](https://solved.ac/ss7ssy/)
 
