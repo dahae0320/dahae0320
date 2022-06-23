@@ -31,10 +31,12 @@
 [![맥북 오너 1년차... 그러나 iOS 개발은 1개월차?!](https://img.youtube.com/vi/M678vw6qPrc/0.jpg)](https://youtu.be/M678vw6qPrc?t=0s)
 
 
-### TIL
+### TIL, etc
 
 <a href="https://velog.io/@ldh0320"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"/></a>
+<a href="https://www.slideshare.net/ssuser50a626/edit_my_uploads"><img src="https://img.shields.io/badge/SlideShare-008ED2?style=for-the-badge&logo=SlideShare&logoColor=white"/></a>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=ss7ssy)](https://solved.ac/ss7ssy)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdahae0320%2Fhit-counter&count_bg=%23F4E06D&title_bg=%23FF7396&icon=github.svg&icon_color=%23FFEDED&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdahae0320%2Fhit-counter&count_bg=%23F4E06D&title_bg=%23FF7396&icon=github.svg&icon_color=%23FFEDED&title=Views&edge_flat=false)](https://hits.seeyoufarm.com)
+
