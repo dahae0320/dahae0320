@@ -34,7 +34,7 @@
 ### TIL, etc
 
 <a href="https://velog.io/@ldh0320"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"/></a>
-<a href="https://www.slideshare.net/ssuser50a626/edit_my_uploads"><img src="https://img.shields.io/badge/SlideShare-008ED2?style=for-the-badge&logo=SlideShare&logoColor=white"/></a>
+<a href="https://www.slideshare.net/ssuser50a626/presentations"><img src="https://img.shields.io/badge/SlideShare-008ED2?style=for-the-badge&logo=SlideShare&logoColor=white"/></a>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=ss7ssy)](https://solved.ac/ss7ssy)
 
