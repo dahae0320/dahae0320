@@ -22,7 +22,7 @@
 | 경상국립대학교 컴퓨터과학 전공           | 2019.03 ~ ing            | Gyeongsang National University(GNU) |
 | 경상대 멋쟁이사자처럼 7기              | 2019.03 ~ 2019.11        | LikeLion at GNU |
 | 경상대 멋쟁이사자처럼 8기 운영진 대표     | 2019.11 ~ 2020.11        | LikeLion at GNU |
-| 경상대 멋쟁이사자처럼 8기 운영진         | 2020.11 ~ 2021.11       | LikeLion at GNU |
+| 경상대 멋쟁이사자처럼 9기 운영진         | 2020.11 ~ 2021.11       | LikeLion at GNU |
 | USG iOS 프로그래밍 심화과정           | 2022.01 ~ 2022.04       | Coders High     |
 
 
