@@ -1,4 +1,5 @@
-## ✨ 성장하는 개발자: 이다혜입니다.
+<h3 align="center">Hi👋</h3>
+<h3 align="center">I'm dahae Lee.</h3>
 
 ### 🛠 Tech
 
