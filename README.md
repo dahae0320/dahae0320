@@ -16,6 +16,8 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> 
 <!-- flat-square -->
 
+<br>
+
  ### 📚 Experience
 
 | Contents                         | Date                    | Organization      |
@@ -26,18 +28,27 @@
 | 경상대 멋쟁이사자처럼 9기 운영진         | 2020.11 ~ 2021.11       | LikeLion at GNU |
 | USG iOS 프로그래밍 심화과정           | 2022.01 ~ 2022.04       | Coders High     |
 
+<br>
 
  ### 📱 나의 iOS 개발 입문?
 
-[![맥북 오너 1년차... 그러나 iOS 개발은 1개월차?!](https://img.youtube.com/vi/M678vw6qPrc/0.jpg)](https://youtu.be/M678vw6qPrc?t=0s)
+<div style="height:50px;">
 
+<a href="https://youtu.be/M678vw6qPrc?t=0s"><img src="https://img.youtube.com/vi/M678vw6qPrc/0.jpg" alt="맥북 오너 1년차... 그러나 iOS 개발은 1개월차?!" height="250px"/></a>
+
+</div>
 
 ### TIL, etc
 
-<a href="https://velog.io/@ldh0320"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"/></a>
+<a href="https://dadahae0320.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"/></a>
+
 <a href="https://www.slideshare.net/ssuser50a626/presentations"><img src="https://img.shields.io/badge/SlideShare-008ED2?style=for-the-badge&logo=SlideShare&logoColor=white"/></a>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=ss7ssy)](https://solved.ac/ss7ssy)
+
+
+<br>
+<br>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdahae0320%2Fhit-counter&count_bg=%23F4E06D&title_bg=%23FF7396&icon=github.svg&icon_color=%23FFEDED&title=Views&edge_flat=false)](https://hits.seeyoufarm.com)
 
