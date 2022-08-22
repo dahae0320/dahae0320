@@ -44,7 +44,7 @@
 <a href="https://www.slideshare.net/ssuser50a626/presentations"><img src="https://img.shields.io/badge/SlideShare-008ED2?style=for-the-badge&logo=SlideShare&logoColor=white"/></a>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=ss7ssy)](https://solved.ac/ss7ssy)
-
+[![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=ss7ssy)](https://solved.ac/ss7ssy)
 
 <br>
 <br>
