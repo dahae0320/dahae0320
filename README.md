@@ -29,7 +29,7 @@
 | USG iOS 프로그래밍 심화과정           | 2022.01 ~ 2022.04        | Coders High     |
 | 네이버 소프트웨어야놀자 시즌2 대학생 멘토 'AI-I-GA' 팀 | 2022.05 ~ ing           | [NAVER Connect play sw](https://www.playsw.or.kr/info) |
 
-<br>
+<br> 
 
  ### 📱 나의 iOS 개발 입문?
 
