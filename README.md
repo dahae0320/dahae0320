@@ -28,6 +28,7 @@
 | 경상대 멋쟁이사자처럼 9기 운영진         | 2020.11 ~ 2021.11        | LikeLion at GNU 9th |
 | USG iOS 프로그래밍 심화과정           | 2022.01 ~ 2022.04        | Coders High     |
 | 네이버 소프트웨어야놀자 시즌2 대학생 멘토 'AI-I-GA' 팀 | 2022.05 ~ ing           | [NAVER Connect play sw](https://www.playsw.or.kr/info) |
+| 멋쟁이사자처럼 앱 스쿨(iOS) 1기        | 2022.09.14 ~ ing         | LikeLion APP SCHOOL  |
 
 <br> 
  
