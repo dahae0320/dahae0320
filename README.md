@@ -40,7 +40,7 @@
 <a href="https://youtu.be/M678vw6qPrc?t=0s"><img src="https://img.youtube.com/vi/M678vw6qPrc/0.jpg" alt="맥북 오너 1년차... 그러나 iOS 개발은 1개월차?!" height="250px"/></a>
 
 </div>
-
+ 
 ### TIL, etc
 
 <a href="https://dadahae0320.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"/></a>
