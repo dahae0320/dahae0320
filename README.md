@@ -23,12 +23,12 @@
 | Contents                         | Date                    | Organization      |
 | -------------------------------- | ----------------------- | ----------------- |
 | 경상국립대학교 컴퓨터과학 전공           | 2019.03 ~ ing            | Gyeongsang National University(GNU) |
-| 경상대 멋쟁이사자처럼 7기              | 2019.03 ~ 2019.11        | LikeLion at GNU 7th |
-| 경상대 멋쟁이사자처럼 8기 운영진 대표     | 2019.11 ~ 2020.11        | LikeLion at GNU 8th |
-| 경상대 멋쟁이사자처럼 9기 운영진         | 2020.11 ~ 2021.11        | LikeLion at GNU 9th |
+| 경상대 멋쟁이사자처럼 7기              | 2019.03 ~ 2019.11        | LIKELION at GNU 7th |
+| 경상대 멋쟁이사자처럼 8기 운영진 대표     | 2019.11 ~ 2020.11        | LIKELION at GNU 8th |
+| 경상대 멋쟁이사자처럼 9기 운영진         | 2020.11 ~ 2021.11        | LIKELION at GNU 9th |
 | USG iOS 프로그래밍 심화과정           | 2022.01 ~ 2022.04        | Coders High     |
 | 네이버 소프트웨어야놀자 시즌2 대학생 멘토 'AI-I-GA' 팀 | 2022.05 ~ ing           | [NAVER Connect play sw](https://www.playsw.or.kr/info) |
-| 멋쟁이사자처럼 앱 스쿨(iOS) 1기        | 2022.09.14 ~ ing         | LikeLion APP SCHOOL  |
+| 멋쟁이사자처럼 앱 스쿨(iOS) 1기        | 2022.09.14 ~ ing         | LIKELION APP SCHOOL  |
 | 연합동아리 UMC 경상대 3기              | 2022.09.15 ~ ing         | UMC at GNU |
 
 <br> 
