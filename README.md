@@ -49,6 +49,8 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=ss7ssy)](https://solved.ac/ss7ssy)
 
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=ss7ssy&theme=warm)
+
 <br> 
 <br>
 
