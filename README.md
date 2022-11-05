@@ -33,13 +33,17 @@
 
 <br> 
  
- ### 📱 나의 iOS 개발 입문?
+ ### 🎁 Presentation
+* [나의 iOS 개발 입문?](https://youtu.be/M678vw6qPrc?t=0s)
+   * adiOS Korea - 2022.04.20
 
-<div style="height:50px;">
+<!-- <div style="height:50px;">
 
 <a href="https://youtu.be/M678vw6qPrc?t=0s"><img src="https://img.youtube.com/vi/M678vw6qPrc/0.jpg" alt="맥북 오너 1년차... 그러나 iOS 개발은 1개월차?!" height="250px"/></a>
 
-</div>
+</div> -->
+
+<br> 
  
 ### TIL, etc
 
