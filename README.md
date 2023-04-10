@@ -33,6 +33,8 @@
 <br> 
  
 ### 🎁 Presentation
+* [Charming Swift 제 1회 컨퍼런스 오프닝 키노트]
+   * 2023.04.08, at [Charming Swift]() 
 * [우당탕탕! Safari Extension에서 Xcode Extension까지](https://www.youtube.com/watch?v=XDaaN9MLPvQ)
    * 2022.11.30, at [Let’s Swift!](https://letswift.kr/2022/)
 * [나의 iOS 개발 입문?](https://youtu.be/M678vw6qPrc?t=0s)
