@@ -63,16 +63,14 @@
 
 <br> 
  
-### 🔗 Blog
-
+### 🔗 Contact
+<a href="https://www.linkedin.com/in/dahae-lee-256a18218/"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://dadahae0320.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"/></a> 
-<!--
 <a href="https://www.slideshare.net/ssuser50a626/presentations"><img src="https://img.shields.io/badge/SlideShare-008ED2?style=for-the-badge&logo=SlideShare&logoColor=white"/></a>
--->
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=ss7ssy)](https://solved.ac/ss7ssy)
 
-<!-- ![mazandi profile](http://mazandi.herokuapp.com/api?handle=ss7ssy&theme=warm) -->
 
-<br>
+<!-- ![mazandi profile](http://mazandi.herokuapp.com/api?handle=ss7ssy&theme=warm) -->
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdahae0320%2Fhit-counter&count_bg=%23F4E06D&title_bg=%23FF7396&icon=github.svg&icon_color=%23FFEDED&title=Views&edge_flat=false)](https://hits.seeyoufarm.com)
