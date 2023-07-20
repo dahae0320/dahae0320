@@ -1,18 +1,7 @@
 <h3 align="center">Hi👋</h3>
 <h3 align="center">I'm dahae Lee.</h3>
-<!-- <p>경남 iOS 커뮤니티 'charming swift'의 오거나이저로 활동하고 있습니다.</p> -->
 
 
-<!-- 
-<br>
-
-### 📱 Main Project
-* **GitSpace**
-  * 깃허브를 사용하는 유저들이 네트워
-* **가사오케(GasaOK)**
-  * 
-<br>
--->
 
 ### 🛠 Tech
   
@@ -26,6 +15,19 @@
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/> 
+
+
+<br> 
+ 
+### 🔗 Contact
+<a href="https://www.linkedin.com/in/dahae-lee-256a18218/"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://dadahae0320.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"/></a> 
+<a href="https://www.slideshare.net/ssuser50a626/presentations"><img src="https://img.shields.io/badge/SlideShare-008ED2?style=for-the-badge&logo=SlideShare&logoColor=white"/></a>
+
+
+
+
+<!-- ![mazandi profile](http://mazandi.herokuapp.com/api?handle=ss7ssy&theme=warm) -->
 
 
 <br> 
@@ -62,17 +64,10 @@
 | 경상국립대학교 컴퓨터과학 전공           | 2019.03 ~ 2023.08       | Gyeongsang National University(GNU) |
 
 
+<br>
 
-<br> 
- 
-### 🔗 Contact
-<a href="https://www.linkedin.com/in/dahae-lee-256a18218/"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://dadahae0320.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"/></a> 
-<a href="https://www.slideshare.net/ssuser50a626/presentations"><img src="https://img.shields.io/badge/SlideShare-008ED2?style=for-the-badge&logo=SlideShare&logoColor=white"/></a>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=ss7ssy)](https://solved.ac/ss7ssy)
 
-
-<!-- ![mazandi profile](http://mazandi.herokuapp.com/api?handle=ss7ssy&theme=warm) -->
-
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdahae0320%2Fhit-counter&count_bg=%23F4E06D&title_bg=%23FF7396&icon=github.svg&icon_color=%23FFEDED&title=Views&edge_flat=false)](https://hits.seeyoufarm.com)
+
