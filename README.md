@@ -31,6 +31,8 @@
 <br> 
 
 ### 🎁 Presentation
+* KWDC23 'WWDC23 Recap' 세션 진행
+   * 2023.07.18, at KWDC23
 * [Charming Swift 제 1회 컨퍼런스 오프닝 키노트](https://www.youtube.com/watch?v=bVh5J51V_x0)
    * 2023.04.08, at [Charming Swift](https://www.youtube.com/@CharmingSwiftiOS) 
 * [우당탕탕! Safari Extension에서 Xcode Extension까지](https://www.youtube.com/watch?v=XDaaN9MLPvQ)
