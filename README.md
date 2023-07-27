@@ -54,7 +54,7 @@
 
 | Contents                         | Date                    | Organization      |
 | -------------------------------- | ----------------------- | ----------------- |
-| 경남 iOS 커뮤니티 Charming Swift 오거나이저 | 2023.04 ~ ing | Charming Swift |
+| 경남 iOS 커뮤니티 Charming Swift 메인테이너 | 2023.04 ~ ing | Charming Swift |
 | 멋쟁이사자처럼 앱스쿨(iOS) 1기         | 2022.09.14 ~ 2023.02.17 | LIKELION APP SCHOOL  |
 | 네이버 소프트웨어야놀자 시즌2 대학생 멘토 'AI-I-GA' 팀 | 2022.05 ~ 2022.12.21 | [NAVER Connect play sw](https://www.playsw.or.kr/info) |
 | USG iOS 프로그래밍 심화과정           | 2022.01 ~ 2022.04       | Coders High     |
