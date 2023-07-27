@@ -33,14 +33,14 @@
 <br> 
 
 ### 🎁 Presentation
-* KWDC23 'WWDC23 Recap' 세션 진행
+* KWDC23 'WWDC23 Recap' 세션
    * 2023.07.18, at KWDC23
-* [Charming Swift 제 1회 컨퍼런스 오프닝 키노트](https://www.youtube.com/watch?v=bVh5J51V_x0)
+* [Charming Swift 제 1회 컨퍼런스 '오프닝 키노트'](https://www.youtube.com/watch?v=bVh5J51V_x0)
    * 2023.04.08, at [Charming Swift](https://www.youtube.com/@CharmingSwiftiOS) 
-* [우당탕탕! Safari Extension에서 Xcode Extension까지](https://www.youtube.com/watch?v=XDaaN9MLPvQ)
+* [2022 Let's Swift '우당탕탕! Safari Extension에서 Xcode Extension까지' 세션](https://www.youtube.com/watch?v=XDaaN9MLPvQ)
    * 2022.11.30, at [Let’s Swift!](https://letswift.kr/2022/)
-* [나의 iOS 개발 입문?](https://youtu.be/M678vw6qPrc?t=0s)
-   * 2022.04.20, at [adiOS 2022 Intro](https://www.youtube.com/channel/UCtQZJqZu5OTkxuGM1fLsBFw/about)
+* [adiOS 2022 Intro '나의 iOS 개발 입문?' 온라인 세션](https://youtu.be/M678vw6qPrc?t=0s)
+   * 2022.04.20, at [adiOS](https://www.youtube.com/channel/UCtQZJqZu5OTkxuGM1fLsBFw/about)
 <!-- <div style="height:50px;">
 
 <a href="https://youtu.be/M678vw6qPrc?t=0s"><img src="https://img.youtube.com/vi/M678vw6qPrc/0.jpg" alt="맥북 오너 1년차... 그러나 iOS 개발은 1개월차?!" height="250px"/></a>
