@@ -51,12 +51,12 @@ Hi👋 I'm Dahae Lee.
 * LIKELION APPSCHOOL iOS 1st Generation
   * 2022-09-14 ~ 2023-02-17 (5 months)
   * Studied Swift, SwiftUI, HIG, Firebase/Firestore
-  * Project: 🌌[GitSpace](https://github.com/APP-iOS1/finalproject-gitspace) - App for managing github starred repository and communicating with repository contributors
+  * Project: 🌌[GitSpace](https://apps.apple.com/kr/app/gitspace/id6446034470) - App for managing github starred repository and communicating with repository contributors
     
 * USG iOS Programming Advanced Course
   * 2022-01 ~ 2022-04-04 (3 months)
   * Studied Swift, SwiftUI
-  * Project: 🎙️[GasaOK("가사오케")](https://github.com/ProjectInTheClass/GasaOK) - App for karaoke user with lyrics, searching karaoke number and managing karaoke staples
+  * Project: 🎙️[GasaOK("가사오케")](https://apps.apple.com/kr/app/%EA%B0%80%EC%82%AC%EC%98%A4%EC%BC%80/id1617004032) - App for karaoke user with lyrics, searching karaoke number and managing karaoke staples
     
 * Gyeongsang National University, B.S. in Computer Science
   * 2019-03 ~ 2023-08 
