@@ -47,7 +47,7 @@ Hi👋 I'm Dahae Lee.
   * 7th Member 
   * Studied Python, Django and HTML, CSS, Javascript
 
-#### Education
+### Education
 * LIKELION APPSCHOOL iOS 1st Generation
   * 2022-09-14 ~ 2023-02-17 (5 months)
   * Studied Swift, SwiftUI, HIG, Firebase/Firestore
@@ -60,8 +60,6 @@ Hi👋 I'm Dahae Lee.
     
 * Gyeongsang National University, B.S. in Computer Science
   * 2019-03 ~ 2023-08 
-
-<br>
 
  
 ### Contact
