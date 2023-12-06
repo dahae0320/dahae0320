@@ -37,7 +37,7 @@ Hi👋 I'm Dahae Lee.
     
 * NAVER Connect Foundation [Play SW("소프트웨어야 놀자") Season 2](https://www.playsw.or.kr/info) College student mentors
   * 2022-05-14 ~ 2022-12-21 (7 months)
-  * Team: ['AI-I-GA'](https://www.instagram.com/ai_i_ga/?utm_source=ig_web_button_share_sheet&igshid=OGQ5ZDc2ODk2ZA==)
+  * Team: [AI-I-GA](https://www.instagram.com/ai_i_ga/?utm_source=ig_web_button_share_sheet&igshid=OGQ5ZDc2ODk2ZA==)
   * Mentored elementary school students on AI and AI ethics, especially facial recognition technology with Entry.
     
 * College club [LIKELION("멋쟁이사자처럼") at GNU](https://www.instagram.com/likelion_gnu/)
@@ -45,17 +45,17 @@ Hi👋 I'm Dahae Lee.
   * 9th Officer 
   * 8th Officer President 
   * 7th Member 
-  * studied Python, Django and HTML, CSS, Javascript
+  * Studied Python, Django and HTML, CSS, Javascript
 
 #### Education
 * LIKELION APPSCHOOL iOS 1st Generation
   * 2022-09-14 ~ 2023-02-17 (5 months)
-  * studied Swift, SwiftUI, HIG, Firebase/Firestore
+  * Studied Swift, SwiftUI, HIG, Firebase/Firestore
   * Project: 🌌[GitSpace](https://github.com/APP-iOS1/finalproject-gitspace) - App for managing github starred repository and communicating with repository contributors
     
 * USG iOS Programming Advanced Course
   * 2022-01 ~ 2022-04-04 (3 months)
-  * studied Swift, SwiftUI
+  * Studied Swift, SwiftUI
   * Project: 🎙️[GasaOK("가사오케")](https://github.com/ProjectInTheClass/GasaOK) - App for karaoke user with lyrics, searching karaoke number and managing karaoke staples
     
 * Gyeongsang National University, B.S. in Computer Science
