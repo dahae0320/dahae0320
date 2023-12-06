@@ -23,14 +23,10 @@ Hi👋 I'm Dahae Lee.
 ### Activities
 
 #### Speaker
-* KWDC23: [WWDC23 Recap](https://youtu.be/g_O9_TWfzQM?feature=shared) 
-   * 2023-07-18
-* Charming Swift 1st Conference: [Opening Keynote](https://www.youtube.com/watch?v=bVh5J51V_x0)
-   * 2023-04-08
-* 2022 Let's Swift: [우당탕탕! Safari Extension에서 Xcode Extension까지](https://www.youtube.com/watch?v=XDaaN9MLPvQ) 
-   * 2022-11-30
-* adiOS 2022 Intro: [나의 iOS 개발 입문?](https://youtu.be/M678vw6qPrc?t=0s) 
-   * 2022-04-20
+* KWDC23: [WWDC23 Recap](https://youtu.be/g_O9_TWfzQM?feature=shared) (2023-07-18)
+* Charming Swift 1st Conference: [Opening Keynote](https://www.youtube.com/watch?v=bVh5J51V_x0) (2023-04-08)
+* 2022 Let's Swift: [우당탕탕! Safari Extension에서 Xcode Extension까지](https://www.youtube.com/watch?v=XDaaN9MLPvQ) (2022-11-30)
+* adiOS 2022 Intro: [나의 iOS 개발 입문?](https://youtu.be/M678vw6qPrc?t=0s) (2022-04-20)
 
 #### Experience
 
@@ -40,14 +36,15 @@ Hi👋 I'm Dahae Lee.
   * [1st Conference 'For iOS Beginner'](https://leeo75.notion.site/Charming-Swift-1-3d67df5dbf3c443396fbecf2517b3308?pvs=4) (2023-09-23)
     
 * NAVER Connect Foundation [Play SW("소프트웨어야 놀자") Season 2](https://www.playsw.or.kr/info) College student mentors
-  * 2022-05-14 ~ 2022-12-21
+  * 2022-05-14 ~ 2022-12-21 (7 months)
   * Team: ['AI-I-GA'](https://www.instagram.com/ai_i_ga/?utm_source=ig_web_button_share_sheet&igshid=OGQ5ZDc2ODk2ZA==)
   * Mentored elementary school students on AI and AI ethics, especially facial recognition technology with Entry.
     
 * College club [LIKELION("멋쟁이사자처럼") at GNU](https://www.instagram.com/likelion_gnu/)
-  * 9th Officer (2020-11 ~ 2021-11)
-  * 8th Officer President (2019-11 ~ 2020-11)
-  * 7th Member (2019-03 ~ 2019-11)
+  * 2019-03 ~ 2021-11 (3 years)
+  * 9th Officer 
+  * 8th Officer President 
+  * 7th Member 
   * studied Python, Django and HTML, CSS, Javascript
 
 #### Education
