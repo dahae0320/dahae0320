@@ -9,14 +9,15 @@ Hi👋 I'm Dahae Lee.
 
 ### Tech
 
-<img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=Apple&logoColor=white"/> <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white"/> 
+<img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=Apple&logoColor=white"/> <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white"/>
+<img src="https://img.shields.io/badge/SwiftUI-147EFB?style=flat-square&logo=swift&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> 
+
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/> 
 
-
+<!-- <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=white"/> -->
 <br> 
 
 ### Activities
@@ -40,7 +41,7 @@ Hi👋 I'm Dahae Lee.
     
 * NAVER Connect Foundation [Play SW("소프트웨어야 놀자") Season 2](https://www.playsw.or.kr/info) College student mentors
   * 2022-05-14 ~ 2022-12-21
-  * [Team 'AI-I-GA'](https://www.instagram.com/ai_i_ga/?utm_source=ig_web_button_share_sheet&igshid=OGQ5ZDc2ODk2ZA==)
+  * Team: ['AI-I-GA'](https://www.instagram.com/ai_i_ga/?utm_source=ig_web_button_share_sheet&igshid=OGQ5ZDc2ODk2ZA==)
   * Mentored elementary school students on AI and AI ethics, especially facial recognition technology with Entry.
     
 * College club [LIKELION("멋쟁이사자처럼") at GNU](https://www.instagram.com/likelion_gnu/)
