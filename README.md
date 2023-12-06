@@ -43,7 +43,7 @@ Hi👋 I'm Dahae Lee.
   * [Team 'AI-I-GA'](https://www.instagram.com/ai_i_ga/?utm_source=ig_web_button_share_sheet&igshid=OGQ5ZDc2ODk2ZA==)
   * Mentored elementary school students on AI and AI ethics, especially facial recognition technology with Entry.
     
-* College club LIKELION("멋쟁이사자처럼") at GNU
+* College club [LIKELION("멋쟁이사자처럼") at GNU](https://www.instagram.com/likelion_gnu/)
   * 9th Officer (2020-11 ~ 2021-11)
   * 8th Officer President (2019-11 ~ 2020-11)
   * 7th Member (2019-03 ~ 2019-11)
