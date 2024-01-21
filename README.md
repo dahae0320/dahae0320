@@ -33,8 +33,8 @@ Hi👋 I'm Dahae Lee.
 
 * Gyeongnam iOS Community [Charming Swift](https://www.instagram.com/charming_swift/?next=%2F) Maintainer
   * 2023-04 ~ ing
-  * [2nd Conference: About SwiftUI("스유가 왔스유")](https://leeo75.notion.site/Charming-Swift-2-285708529b014b51b6d334e24b3f0b33?pvs=4) (2023-04-08)
-  * [1st Conference: For iOS Beginner("iOS 스타터들의 Hello World부터 앱 출시까지")](https://leeo75.notion.site/Charming-Swift-1-3d67df5dbf3c443396fbecf2517b3308?pvs=4) (2023-09-23)
+  * [2nd Conference: About SwiftUI("스유가 왔스유")](https://leeo75.notion.site/Charming-Swift-2-285708529b014b51b6d334e24b3f0b33?pvs=4) (2023-09-23)
+  * [1st Conference: For iOS Beginner("iOS 스타터들의 Hello World부터 앱 출시까지")](https://leeo75.notion.site/Charming-Swift-1-3d67df5dbf3c443396fbecf2517b3308?pvs=4) (2023-04-08)
     
 * NAVER Connect Foundation [Play SW("소프트웨어야 놀자") Season 2](https://www.playsw.or.kr/info) College student mentors
   * 2022-05-14 ~ 2022-12-21 (7 months)
