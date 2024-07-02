@@ -19,6 +19,13 @@ Hi👋 I'm Dahae Lee.
 <!-- <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=white"/> -->
 <br> 
 
+<!--
+### Carrer
+* Researcher at Information Science Lab, Department of Computer Science, Gyeongsang National University
+  * 2024-03 ~ 2024-06
+  * worked on 
+-->
+
 ### Activities
 
 #### Speaker
