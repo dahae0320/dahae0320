@@ -30,9 +30,9 @@ Hi👋 I'm Dahae Lee.
 
 #### Contribute
 * [ko.react.dev](https://github.com/reactjs/ko.react.dev)
-  * [#953](https://github.com/reactjs/ko.react.dev/pull/953) Fix a typo (24.06.17)
+  * [#953](https://github.com/reactjs/ko.react.dev/pull/953) Fix a typo (2024-06-17)
 * [amazon chime sdk js](https://github.com/aws/amazon-chime-sdk-js)
-  * [#2899, #2903](https://github.com/reactjs/ko.react.dev/pull/953) Delete duplicate code (24.06.08)
+  * [#2899, #2903](https://github.com/reactjs/ko.react.dev/pull/953) Delete duplicate code (2024-06-08)
 
 #### Speaker
 * Charming Swift 2nd Conference: [Opening Keynote](https://youtu.be/sJmzj68pWmI?feature=shared) (2023-09-23)
@@ -42,9 +42,9 @@ Hi👋 I'm Dahae Lee.
 * adiOS 2022 Intro: [나의 iOS 개발 입문?](https://youtu.be/M678vw6qPrc?t=0s) (2022-04-20)
 
 #### Experience
-
-* Gyeongnam iOS Community [Charming Swift](https://www.instagram.com/charming_swift/?next=%2F) Maintainer
+* Gyeongnam Jinju iOS Community [Charming Swift](https://www.instagram.com/charming_swift/?next=%2F) Maintainer
   * 2023-04 ~ ing
+  * iCharm X Chamring Swift [1st Event: First step on Coding with iMac("iMac으로 코딩 첫 걸음")](https://festa.io/events/5316) (2024-06-29)
   * [2nd Conference: About SwiftUI("스유가 왔스유")](https://leeo75.notion.site/Charming-Swift-2-285708529b014b51b6d334e24b3f0b33?pvs=4) (2023-09-23)
   * [1st Conference: For iOS Beginner("iOS 스타터들의 Hello World부터 앱 출시까지")](https://leeo75.notion.site/Charming-Swift-1-3d67df5dbf3c443396fbecf2517b3308?pvs=4) (2023-04-08)
     
