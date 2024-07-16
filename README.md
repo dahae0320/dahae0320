@@ -28,6 +28,12 @@ Hi👋 I'm Dahae Lee.
 
 ### Activities
 
+#### Contribute
+* [ko.react.dev](https://github.com/reactjs/ko.react.dev)
+  * [#953](https://github.com/reactjs/ko.react.dev/pull/953) Fix a typo (24.06.17)
+* [amazon chime sdk js](https://github.com/aws/amazon-chime-sdk-js)
+  * [#2899, #2903](https://github.com/reactjs/ko.react.dev/pull/953) Delete duplicate code (24.06.08)
+
 #### Speaker
 * Charming Swift 2nd Conference: [Opening Keynote](https://youtu.be/sJmzj68pWmI?feature=shared) (2023-09-23)
 * KWDC23: [WWDC23 Recap](https://youtu.be/g_O9_TWfzQM?feature=shared) (2023-07-18)
