@@ -29,17 +29,17 @@ Hi👋 I'm Dahae Lee.
 ### Activities
 
 #### Contribute
-* [ko.react.dev](https://github.com/reactjs/ko.react.dev)
+* **[ko.react.dev](https://github.com/reactjs/ko.react.dev)**
   * [#953](https://github.com/reactjs/ko.react.dev/pull/953) Fix a typo (2024-06-17)
-* [amazon chime sdk js](https://github.com/aws/amazon-chime-sdk-js)
+* **[amazon chime sdk js](https://github.com/aws/amazon-chime-sdk-js)**
   * [#2899, #2903](https://github.com/reactjs/ko.react.dev/pull/953) Delete duplicate code (2024-06-08)
 
 #### Speaker
-* Charming Swift 2nd Conference: [Opening Keynote](https://youtu.be/sJmzj68pWmI?feature=shared) (2023-09-23)
-* KWDC23: [WWDC23 Recap](https://youtu.be/g_O9_TWfzQM?feature=shared) (2023-07-18)
-* Charming Swift 1st Conference: [Opening Keynote](https://www.youtube.com/watch?v=bVh5J51V_x0) (2023-04-08)
-* 2022 Let's Swift: [우당탕탕! Safari Extension에서 Xcode Extension까지](https://www.youtube.com/watch?v=XDaaN9MLPvQ) (2022-11-30)
-* adiOS 2022 Intro: [나의 iOS 개발 입문?](https://youtu.be/M678vw6qPrc?t=0s) (2022-04-20)
+* **Charming Swift 2nd Conference**: [Opening Keynote](https://youtu.be/sJmzj68pWmI?feature=shared) (2023-09-23)
+* **KWDC23**: [WWDC23 Recap](https://youtu.be/g_O9_TWfzQM?feature=shared) (2023-07-18)
+* **Charming Swift 1st Conference**: [Opening Keynote](https://www.youtube.com/watch?v=bVh5J51V_x0) (2023-04-08)
+* **2022 Let's Swift**: [우당탕탕! Safari Extension에서 Xcode Extension까지](https://www.youtube.com/watch?v=XDaaN9MLPvQ) (2022-11-30)
+* **adiOS 2022 Intro**: [나의 iOS 개발 입문?](https://youtu.be/M678vw6qPrc?t=0s) (2022-04-20)
 
 #### Experience
 * Gyeongnam Jinju iOS Community [Charming Swift](https://www.instagram.com/charming_swift/?next=%2F) Maintainer
