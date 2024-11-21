@@ -32,7 +32,7 @@ Hi👋 I'm Dahae Lee.
 * **[ko.react.dev](https://github.com/reactjs/ko.react.dev)**
   * [#953](https://github.com/reactjs/ko.react.dev/pull/953) Fix a typo (2024-06-17)
 * **[amazon chime sdk js](https://github.com/aws/amazon-chime-sdk-js)**
-  * [#2899, #2903](https://github.com/reactjs/ko.react.dev/pull/953) Delete duplicate code (2024-06-08)
+  * [#2899](https://github.com/aws/amazon-chime-sdk-js/pull/2899) [#2903](https://github.com/aws/amazon-chime-sdk-js/pull/2903) Delete duplicate code (2024-06-08)
 
 #### Speaker
 * **Charming Swift 2nd Conference**: [Opening Keynote](https://youtu.be/sJmzj68pWmI?feature=shared) (2023-09-23)
